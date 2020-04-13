@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e61d0903-4b3a-4029-af7a-94d9b43464ef" name="Default Changelist" comment="" />
+    <list default="true" id="6dfeffae-c984-489a-8615-4f524af7add4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,55 +14,62 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1Y7iRRxUe0yrLD5KM4PxkTiSUFb" />
+  <component name="ProjectId" id="1a2LzvyYtfDKKuykfw8iPklmTT7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Q1">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Lab3" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q2">
     <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q1" />
-      <module name="Lab3" />
+      <module name="Lab5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q2" />
-      <module name="Lab3" />
+      <module name="Lab5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q3" />
-      <module name="Lab3" />
+      <module name="Lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q4" />
+      <module name="Lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q5" />
+      <module name="Lab5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Q1" />
       <item itemvalue="Application.Q2" />
       <item itemvalue="Application.Q3" />
+      <item itemvalue="Application.Q4" />
+      <item itemvalue="Application.Q5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q1" />
-        <item itemvalue="Application.Q3" />
         <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.Q3" />
+        <item itemvalue="Application.Q5" />
+        <item itemvalue="Application.Q4" />
+        <item itemvalue="Application.Q1" />
       </list>
     </recent_temporary>
   </component>
@@ -71,30 +78,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e61d0903-4b3a-4029-af7a-94d9b43464ef" name="Default Changelist" comment="" />
-      <created>1582300024174</created>
+      <changelist id="6dfeffae-c984-489a-8615-4f524af7add4" name="Default Changelist" comment="" />
+      <created>1585929007973</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582300024174</updated>
+      <updated>1585929007973</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1582302775871">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1586022212479">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582302775871" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1582302775871">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586022212479" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1586022212479">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582302775871" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1582302775871">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586022212479" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1586022212479">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582302775871" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1582302775871">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586022212479" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1586022212479">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582302775871" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586022212479" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1585931222424">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585931222424" />
   </component>
 </project>
